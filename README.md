@@ -3,8 +3,8 @@
 📍 Pune, Maharashtra, India  
 💻 Aspiring Java Full Stack Developer  
 📫 Email: Karan.salunke9834@gmail.com  
+🌐 Portfolio: https://karansalunke1.netlify.app/       
 🔗 LinkedIn: https://www.linkedin.com/in/karan-salunke-89509828a/
-🌐 Portfolio: https://karansalunke1.netlify.app/
 
 ---
 
