@@ -17,6 +17,27 @@ Eager to contribute analytical thinking and problem-solving skills in a professi
 
 ---
 
+## 💼 Projects
+
+### 🔹 Job Portal Web Application (Full Stack)
+**Tech Stack:** HTML, CSS, Bootstrap, Advanced Java, MySQL  
+
+- Developed a full-featured job portal web application
+- Implemented user authentication and role-based access
+- Built job listing and job application management modules
+- Designed responsive UI using Bootstrap
+- Integrated frontend and backend using REST APIs
+- Used MySQL for data storage and management
+
+---
+
+## 📜 Certifications
+
+- Full Stack Web Development Certification  
+  **Envision Computer Training Institute**
+
+---
+
 ## 🛠 Technical Skills
 
 ### 🔹 Frontend
@@ -46,28 +67,6 @@ Eager to contribute analytical thinking and problem-solving skills in a professi
 - Debugging
 - Team Collaboration
 - Analytical Thinking
-
----
-
-## 💼 Projects
-
-### 🔹 Job Portal Web Application (Full Stack)
-**Tech Stack:** HTML, CSS, Bootstrap, Advanced Java, MySQL  
-
-- Developed a full-featured job portal web application
-- Implemented user authentication and role-based access
-- Built job listing and job application management modules
-- Designed responsive UI using Bootstrap
-- Integrated frontend and backend using REST APIs
-- Used MySQL for data storage and management
-
-
----
-
-## 📜 Certifications
-
-- Full Stack Web Development Certification  
-  **Envision Computer Training Institute**
 
 ---
 
