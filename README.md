@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Karan Rahul Salunke
+# 👋 Hi, I'm Karan Salunke
 
 📍 Pune, Maharashtra, India  
 💻 Aspiring Java Full Stack Developer  
 📫 Email: Karan.salunke9834@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/karan-salunke-89509828a/ 
+🔗 LinkedIn: https://www.linkedin.com/in/karan-salunke-89509828a/
 🌐 Portfolio: https://karansalunke1.netlify.app/
 
 ---
