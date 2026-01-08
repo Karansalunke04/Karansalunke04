@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Karan Salunke
 
-📍 Pune, Maharashtra, India  
-💻 Aspiring Java Full Stack Developer  
-📫 Email: Karan.salunke9834@gmail.com  
-🌐 Portfolio: https://karansalunke1.netlify.app/       
-🔗 LinkedIn: https://www.linkedin.com/in/karan-salunke-89509828a/
+🌍 Pune, Maharashtra, India  
+💻 Aspiring Java Full Stack Developer | Tech Enthusiast  
+📫 Reach me at: [Karan.salunke9834@gmail.com](mailto:Karan.salunke9834@gmail.com)     
+🌐 [Portfolio](https://karansalunke1.netlify.app/)             
+🔗 [LinkedIn](https://www.linkedin.com/in/karan-salunke-89509828a/)
 
 ---
 
-## 🚀 Professional Summary
+## 👨‍💻 About Me
 
-Aspiring Java Developer with strong proficiency in **Core Java, Spring Boot, and RESTful API development**.  
-Hands-on experience in building and deploying a **Full Stack Job Portal Web Application** using Java and MySQL.  
-Skilled in backend architecture, database integration, and frontend coordination with a focus on clean, maintainable code.  
-Eager to contribute analytical thinking and problem-solving skills in a professional development environment.
+I’m an aspiring **Java Full Stack Developer** based in Pune, India, with hands-on experience in building full-stack web applications using **HTML, CSS, Java Script, Java, Spring Boot, REST APIs, and MySQL**. I have successfully developed a **Full Stack Job Portal Web Application**, which strengthened my understanding of backend architecture, database integration, and frontend coordination.
+
+I enjoy writing clean, maintainable code and solving real-world problems through structured and efficient solutions. With a strong foundation in **Core Java** and modern web technologies, I’m eager to grow as a professional developer and contribute to impactful software projects in a collaborative environment.
 
 ---
 
@@ -38,35 +37,29 @@ Eager to contribute analytical thinking and problem-solving skills in a professi
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technologies & Tools
 
-### 🔹 Frontend
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- React.js
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-### 🔹 Backend
-- Core Java
-- Advanced Java
-- Spring Framework
-- Spring Boot
-- REST APIs
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?logo=api&logoColor=white)
 
-### 🔹 Database
-- MySQL
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-### 🔹 Tools & Others
-- Git & GitHub
-- Postman
-- Microsoft Excel, Word, PowerPoint
-
-### 🔹 Soft Skills
-- Problem Solving
-- Debugging
-- Team Collaboration
-- Analytical Thinking
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
 ---
 
