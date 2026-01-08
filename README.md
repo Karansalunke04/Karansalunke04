@@ -3,8 +3,7 @@
 🌍 Pune, Maharashtra, India  
 💻 Aspiring Java Full Stack Developer | Tech Enthusiast  
 📫 Reach me at: [Karan.salunke9834@gmail.com](mailto:Karan.salunke9834@gmail.com)     
-🌐 [Portfolio](https://karansalunke1.netlify.app/)             
-🔗 [LinkedIn](https://www.linkedin.com/in/karan-salunke-89509828a/)
+🌐 [Portfolio](https://karansalunke1.netlify.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/karan-salunke-89509828a/)
 
 ---
 
